@@ -7,13 +7,13 @@ import 'firebase/compat/firestore'
 import 'firebase/compat/storage'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAWOeCj2nDswcIbWyE2PEwRkZreD-IXYvI",
-  authDomain: "scheduler-mobileapp.firebaseapp.com",
-  projectId: "scheduler-mobileapp",
-  storageBucket: "scheduler-mobileapp.appspot.com",
-  messagingSenderId: "927508012431", 
-  appId: "1:927508012431:web:bd79a3168132401505bffa",
-  measurementId: "G-7DSKXQNW65"
+  apiKey: "....",
+  authDomain: "....",
+  projectId: "....",
+  storageBucket: "....",
+  messagingSenderId: "....", 
+  appId: "....",
+  measurementId: "...."
 };
 
 let app;
