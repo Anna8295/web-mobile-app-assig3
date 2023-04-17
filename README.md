@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=1z0L-JNmmuI
 ## Documentation
 
 More information about the process and creation you can find in this document: [Documentation](https://github.com/Anna8295/web-mobile-app-assig3/blob/main/Váradyová_and_Morina_assig3.pdf)
-
+ 
